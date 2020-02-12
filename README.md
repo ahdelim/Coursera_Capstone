@@ -2,7 +2,7 @@
 This repository is for the IBM Data Science course capstone project.
 + ================================= +
 + Created by Y.D. Lim               
-+ Date: 12 Dec 2019                 
++ Last updated: 12 Feb 2020                 
 + ================================= +
 
 12 February 2020
